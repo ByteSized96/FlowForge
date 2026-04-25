@@ -64,6 +64,6 @@ Create, run, and schedule automation flows using a simple block-based interface 
 ### Run the app
 
 ```bash
-git clone https://github.com/your-username/flowforge.git
+git clone https://github.com/ByteSized96/flowforge.git
 cd flowforge
 ./gradlew run
